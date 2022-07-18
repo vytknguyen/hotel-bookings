@@ -1,6 +1,6 @@
 # Hotel Booking Management | Group Project
 
-In the scenario where flight cancellations are raising as an alert issue to both travellers and hotel managers, we want to apply **machine learning** and **deep learning** concepts to improve hotel management process.
+In the scenario where flight cancellations raising as an alert issue to both travellers and hotel managers, we want to apply **machine learning** and **deep learning** concepts to improve hotel management process.
 
 <img src="https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg" align="center" width="700">
 
